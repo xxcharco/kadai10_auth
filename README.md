@@ -31,7 +31,8 @@ DBでユーザーを作成した際のLaravelとの接続が手間取ったこ�
 ## ⑦質問・疑問・感想、シェアしたいこと等なんでも
 
 - [質問]
+  Laravelをさくらサーバーに上げる手順をネットで調べながら取り組みましたが、何度かつまづくポイントがあったので改めて注意点を知りたいです。
 - [感想]
 - [参考記事]
-  - 1. [URLをここに記入]
+  - 1. [(https://arrown-blog.com/laravel-sakura-deploy/#Laravel_Breezegitignore)]
   - 2. [URLをここに記入]
